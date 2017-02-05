@@ -1,2 +1,2 @@
 # simple-python-app
-Simple Python App for testing Openshift
+Simple Python Boottle App for testing Openshift
